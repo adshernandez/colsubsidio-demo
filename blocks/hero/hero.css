@@ -12,10 +12,12 @@
 
 .hero h1 {
   max-width: 500px;
-  margin-left: 20%;
   margin-right: auto;
   color: var(--link-color);
   text-shadow: 3px 1px black;
+  font-size: 36px;
+  margin-top: 300px;
+  margin-left: 0;
 }
 
 .hero picture {
@@ -27,9 +29,9 @@
 }
 
 .hero img {
-  height: 100%;
-  position: absolute;
-  right: 20%;
+  height: auto;
+  position: relative;
+  right: auto;
 }
 /*
 .hero img {
@@ -41,5 +43,13 @@
 @media (width >= 900px) {
   .hero {
     padding: 40px 32px;
+  }
+  .hero img {
+    height: 100%;
+    position: absolute;
+    right: 20%;
+  }
+  .hero h1 {
+    margin-left: 20%;
   }
 }
