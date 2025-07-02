@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p89308-e1665675.adobeaemcloud.com/bin/franklin.delivery/adshernandez/compensar-demo/main"
+    type: "markup"
+    suffix: ".html"

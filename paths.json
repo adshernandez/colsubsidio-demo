@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/compensar-demo/:/",
+    "/content/compensar-demo/configuration:/.helix/config.json",
+    "/content/compensar-demo/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/compensar-demo/"
+  ]
+}
