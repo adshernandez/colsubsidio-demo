@@ -47,10 +47,10 @@
   .hero img {
     height: 100%;
     position: absolute;
-    right: 20%;
+    right: 10%;
   }
   .hero h1 {
-    margin-left: 20%;
+    margin-left: 10%;
     margin-top: 0;
     font-size: 48px
   }
