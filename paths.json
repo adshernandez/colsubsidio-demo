@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/compensar-demo/:/",
-    "/content/compensar-demo/configuration:/.helix/config.json",
-    "/content/compensar-demo/metadata:/metadata.json"
+    "/content/colsubsidio-demo/:/",
+    "/content/colsubsidio-demo/configuration:/.helix/config.json",
+    "/content/colsubsidio-demo/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/compensar-demo/"
+    "/content/colsubsidio-demo/"
   ]
 }
